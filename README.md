@@ -148,12 +148,23 @@ Permiten **ampliar las funcionalidades** de una plantilla según necesidades esp
 🔹 Cada *add-on* tiene un **precio fijo predefinido**, facilitando la elección.  
 🔹 Si un cliente necesita algo que no existe, se evalúa como **desarrollo personalizado** (Nivel 3).
 
-#### **Lógica de Precios Inteligente:**
-- Si alguien elige un **blog** pero quiere agregar carrito + pasarela de pago → le sugerimos mejor el **E-commerce**, porque ya viene con eso incluido y probablemente sale más económico.
-- Si alguien elige **E-commerce** → ya incluye TODO lo necesario para vender (carrito, inventario, pagos, envíos).
-- Si alguien elige **Plataforma de Videos** (más cara) → ya incluye reproductor, listas de reproducción, cuentas, suscripciones, comentarios, gestión de contenido.
+#### **Lógica de Precios Transparente (No Nos Aprovechamos):**
 
-**No cobramos extras por funcionalidades que ya deberían venir en la plantilla elegida.**
+🎯 **Honestidad antes que lucro:** Si un cliente pide funcionalidades que ya están incluidas en otra plantilla, le sugerimos la opción más adecuada y económica.
+
+**Ejemplos prácticos:**
+
+- **Blog + Carrito + Pasarela de pago** → Sugerimos **E-commerce** (más completo y probablemente más barato).
+- **Landing + Reservas + Pagos** → Sugerimos **Sistema de Reservas** directamente.
+- **Sitio Corporativo + Plataforma de Videos** → Si el video es lo principal, mejor **Plataforma de Videos** con personalización corporativa.
+
+#### **Qué Incluye Cada Plantilla (Sin Extras Ocultos):**
+
+- **E-commerce:** Carrito, inventario, múltiples pasarelas de pago, gestión de envíos, cuentas de cliente, reportes de ventas.
+- **Plataforma de Videos:** Reproductor HD, listas de reproducción, comentarios, likes, suscripciones, cuentas, moderación, gestión de contenido.
+- **Sistema de Reservas:** Calendario interactivo, pagos en línea, confirmaciones automáticas, gestión de disponibilidad.
+
+**Filosofía:** Cobramos por el valor real entregado, no por "trucos" o funcionalidades que deberían venir incluidas.
 
 ---
 
@@ -262,15 +273,19 @@ Sitio funcional en **1 semana**, con ventas online activas.
 ### **Caso 2: Club de Cine Amateur "Séptimo Arte"**
 
 **Necesidad:**  
-Plataforma para que sus miembros suban y compartan películas propias, con sistema de suscripción.
+Un club de cine amateur cuyos miembros pagan membresía anual quiere tener su propia plataforma (estilo YouTube) para subir, compartir y ver exclusivamente las películas producidas por ellos mismos.
 
 **Solución WebBlocks:**  
-- Plantilla **Plataforma de Videos** (más cara, pero completa).
-- Incluye: reproductor HD, listas de reproducción, comentarios, cuentas de usuario, suscripciones, gestión de contenido.
-- Add-on: sistema de membresía con pagos recurrentes.
+- Plantilla **Plataforma de Videos** (precio premium, pero incluye todo lo necesario).
+- **Ya incluye:** reproductor HD optimizado, listas de reproducción personalizadas, sistema de comentarios, cuentas de usuario, suscripciones a canales, gestión completa de contenido multimedia.
+- **Add-on:** sistema de membresía con pagos recurrentes anuales.
+- **Personalización:** branding del club, categorías específicas (drama, documental, experimental), moderación de contenido.
+
+**¿Por qué no elegir un Blog con add-ons de video?**  
+Porque la **Plataforma de Videos** ya incluye TODO lo que necesitan y probablemente resulta más económica que armar un blog + múltiples add-ons.
 
 **Resultado:**  
-Plataforma funcional tipo YouTube, pero privada y personalizada, en **2 semanas**.
+Plataforma completamente funcional tipo YouTube pero privada, exclusiva para el club, con membresías integradas, lista en **2 semanas**.
 
 ---
 
@@ -342,39 +357,60 @@ WebBlocks no solo es una plataforma de servicios, sino también un **ecosistema 
 - **Consultores:** Atención a clientes, reuniones, coordinación de proyectos.
 - **Soporte técnico:** Mantenimiento, actualizaciones, resolución de problemas.
 
-### **2. Biblioteca Abierta de Add-ons (Visión a Futuro)**
+### **2. Biblioteca Abierta de Add-ons: Marketplace Global**
 
-Queremos crear una **comunidad global de desarrolladores** que contribuyan con componentes propios.
+Queremos crear una **comunidad global de desarrolladores** donde cualquier programador del mundo pueda contribuir con componentes propios y obtener ingresos por ello.
 
-#### **¿Cómo Funcionaría?**
+#### **¿Cómo Funcionaría el Sistema de Contribuciones?**
 
-- **Cualquier desarrollador** puede crear un add-on y enviárnoslo.
-- **Evaluamos la calidad** del código, funcionalidad y seguridad.
-- **Si es aceptado**, se integra a nuestra biblioteca.
-- **Por cada uso**, el creador recibe una **comisión** (pequeña pero justa).
+1. **Envío de Propuestas:** Cualquier desarrollador puede contactarnos con su add-on desarrollado.
+2. **Evaluación Rigurosa:** Nuestro equipo evalúa calidad del código, funcionalidad, seguridad y utilidad.
+3. **Integración y Comisiones:** Si es aceptado, se integra a nuestra biblioteca oficial.
+4. **Ingresos por Uso:** El creador recibe una comisión por cada vez que su add-on se utiliza en un proyecto cliente.
 
-#### **Beneficios:**
+#### **Sistema de Comisiones Inteligente:**
 
-✅ **Incentiva la innovación** y colaboración global.  
-✅ **Amplía el catálogo** de funcionalidades disponibles.  
-✅ **Genera ingresos** para desarrolladores independientes.  
-✅ **Acelera el desarrollo** de la plataforma.
+- 💰 **Comisión variable** según la importancia y complejidad del add-on.
+- 📈 **Add-ons populares = mayores ingresos** para el desarrollador.
+- 🎯 **Incentivos especiales** para componentes únicos o muy demandados.
+- 🤝 **Contratos transparentes** con términos claros de colaboración.
+
+#### **Beneficios del Ecosistema:**
+
+✅ **Genera empleo remoto** para desarrolladores independientes globalmente.  
+✅ **Amplía exponencialmente** nuestro catálogo de funcionalidades.  
+✅ **Acelera la innovación** con aportes de expertos especializados.  
+✅ **Crea una economía colaborativa** en torno a WebBlocks.  
+✅ **Reduce costos de desarrollo** mientras aumenta la calidad.
 
 ---
 
-### **3. Uso de Open Source con Reconocimiento**
+### **3. Uso Ético de Open Source con Regalías**
 
-Planeamos usar **código abierto** donde sea útil, siempre respetando licencias y reconociendo a los creadores.
+Nuestra filosofía es usar **código abierto de calidad** mientras compensamos justamente a sus creadores cuando sea posible.
 
-#### **Estrategia:**
+#### **Estrategia de Colaboración Ética:**
 
-- **Contactar a los autores** para ofrecer regalías o reconocimiento formal.
-- **Si no es posible contactarlos**, al menos se reconocerá su aporte públicamente.
-- **El valor que cobramos** es por el servicio de **ensamblaje, personalización, soporte y mantenimiento**, no por el código en sí.
+1. **Contacto Proactivo:** Identificamos y contactamos a los autores de proyectos open source útiles.
+2. **Propuesta de Regalías:** Ofrecemos compensación económica por el uso comercial de su trabajo.
+3. **Reconocimiento Público:** Todos los aportes se reconocen públicamente en nuestra plataforma.
+4. **Colaboración Continua:** Invitamos a los autores a mejorar o adaptar sus proyectos para WebBlocks.
 
-#### **Visión:**
+#### **Si No Es Posible el Contacto:**
 
-Crear una **comunidad WebBlocks** donde se valoren y reconozcan los aportes de terceros, fomentando una cultura de colaboración y transparencia.
+- 🏷️ **Reconocimiento prominente** del autor original.
+- 📖 **Documentación clara** de la fuente y licencia.
+- 💰 **Reserva de regalías** para entregarlas si el autor se contacta posteriormente.
+- 🤝 **Transparencia total** sobre qué componentes son de terceros.
+
+#### **Valor Agregado de WebBlocks:**
+
+Nuestro valor comercial no está en el código base, sino en:
+- 🔧 **Ensamblaje profesional** y optimización.
+- 🎨 **Personalización** según necesidades del cliente.
+- 🛠️ **Soporte técnico** especializado y mantenimiento.
+- 👥 **Acompañamiento humano** durante todo el proceso.
+- 🔒 **Seguridad y actualizaciones** continuas.
 
 ---
 
@@ -521,11 +557,11 @@ Para validar el modelo antes del lanzamiento completo, desarrollaremos un **PMV 
 
 ## 👥 **Equipo y Participación**
 
-### **Requisitos para Postular:**
+### **Equipo Actual:**
 
-- Max **6 integrantes** (exigencia del Fondo Santander).
+- **5 integrantes confirmados** (dentro del límite de 6 que exige el Fondo Santander).
 
-### **Perfiles Buscados:**
+### **Perfiles del Equipo:**
 
 - **Desarrolladores Web** (Frontend / Backend)
 - **Diseñadores UX/UI**
