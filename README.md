@@ -508,7 +508,7 @@ Para validar el modelo antes del lanzamiento completo, desarrollaremos un **PMV 
 2. Lanzar **Marketplace de add-ons**.
 3. Generar alianzas con agencias y diseñadores.
 4. Ofrecer **programas de partners** para mantenimiento y expansión.
-5. Expandir a otras regiones (regional, nacional).
+5. Iniciar campañas de marketing digital y físico.
 
 ### **Largo Plazo (3+ años):**
 
@@ -523,7 +523,7 @@ Para validar el modelo antes del lanzamiento completo, desarrollaremos un **PMV 
 
 ### **Requisitos para Postular:**
 
-- Mínimo **5 integrantes** (exigencia del Fondo Santander).
+- Max **6 integrantes** (exigencia del Fondo Santander).
 
 ### **Perfiles Buscados:**
 
@@ -641,11 +641,23 @@ Con el apoyo del **Fondo Santander** y la retroalimentación de expertos como el
 
 **Javier Sebastián Morales Subaru**  
 📧 [jmoraless5@correo.uss.cl](mailto:jmoraless5@correo.uss.cl)  
-📱 [+56964971044]
+📱 [+569 5497 1044]
 
 **Benjamín Cruz Espinoza**  
 📧 [bcruze@correo.uss.cl](mailto:bcruze@correo.uss.cl)  
-📱 [+56912345678]
+📱 [+569 4448 1456]
+
+**Carlos Bastidas Pereira**  
+📧 [cbastidasp@correo.uss.cl](mailto:cbastidasp@correo.uss.cl)  
+📱 [+569 3701 3703]
+
+**Ignacio Barra Chaparro**  
+📧 [ibarrac@correo.uss.cl](mailto:ibarrac@correo.uss.cl)  
+📱 [+569 8329 8028]
+
+**Benjamin Campos Vargas**  
+📧 [bcamposv@correo.uss.cl](mailto:bcamposv@correo.uss.cl)  
+📱 [+569 9088 1759]
 
 ---
 
