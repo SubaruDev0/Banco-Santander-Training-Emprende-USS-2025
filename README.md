@@ -3,7 +3,8 @@
 Nota: WebBlocks es un nombre provisional, sujeto a cambios.
 ```
 > **Propuesta Integral del Proyecto**  
-> Presentada por: **Javier Sebastián Morales Subaru** & **Benjamín Cruz Espinoza**  
+> Presentada por: **Javier Morales Subaru**, **Benjamín Cruz Espinoza**, **Carlos Bastidas Pereira**, **Ignacio Barra Chaparro** & **Benjamin Campos Vargas** 
+> 
 > Estudiantes de Ingeniería Civil Informática – Universidad San Sebastián, Concepción  
 >  
 > **Contexto:** Postulación al *Fondo Santander Training | Emprende USS 2025*  
