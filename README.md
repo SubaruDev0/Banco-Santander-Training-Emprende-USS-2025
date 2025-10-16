@@ -1,113 +1,199 @@
-# 🚀 Banco Santander Training Emprende USS 2025  
-## Proyecto: **Ruta del Emprendedor Digital**
+# 🚀 **Ruta del Emprendedor Digital** - Plataforma de Desarrollo Web para PYMES
 
-> **Propuesta Integral del Proyecto**  
-> Presentada por: **Javier Morales Subaru**, **Benjamín Cruz Espinoza**, **Carlos Bastidas Pereira**, **Ignacio Barra Chaparro**, **Benjamin Campos Vargas** & **Victor Cisternas** 
+> **Propuesta Específica y Realista**  
+> Presentada por: **Javier Morales Subaru, Benjamín Cruz Espinoza, Carlos Bastidas Pereira, Ignacio Barra Chaparro, Benjamin Campos Vargas & Victor Cisternas** 
 > 
 > Estudiantes de Ingeniería Civil Informática – Universidad San Sebastián, Concepción  
 >  
 > **Contexto:** Postulación al *Fondo Santander Training | Emprende USS 2025*  
 > **Fecha:** Octubre 2025  
-> **Propósito:** Proveer contexto completo del proyecto para retroalimentación técnica y estratégica.
 
 ---
 
-## 🧩 Problemática
+## 🧩 **Problemática Real**
 
-Las **pequeñas y medianas empresas (PYMEs)** y los **emprendedores locales** enfrentan grandes desafíos al intentar posicionarse en el mundo digital.  
-Aunque existen plataformas como **WordPress, Wix o Shopify**, muchas de estas herramientas **no logran adaptarse a las verdaderas necesidades de los emprendedores** ni ofrecen un acompañamiento personalizado.
+Las **PYMES y emprendedores chilenos** enfrentan problemas concretos:
 
-En la práctica:
-- Los emprendedores **no aprovechan todo el potencial de las plataformas web** ni de las **redes sociales**.  
-- Los **especialistas y agencias** no alcanzan a cubrir todas las demandas de personalización o asistencia que requieren las PYMEs.  
-- Muchos negocios terminan con sitios web genéricos o mal estructurados, **sin estrategia ni identidad de marca clara**.
-
----
-
-## 💡 Nuestra Solución
-
-Proponemos una **plataforma de creación digital asistida** diseñada específicamente para **PYMEs y pequeños emprendimientos**, que guía a los usuarios paso a paso en la construcción de su identidad digital.  
-
-El núcleo del proyecto es lo que llamamos **“La Ruta del Emprendedor”** 🧭 — una experiencia interactiva que permite al usuario **reflexionar, definir y construir** su negocio de forma integral.
+- 📊 **No saben comunicar** su valor para fondos concursables (CORFO, Sercotec, Santander)
+- 🎯 **Carecen de estructura** clara: propuesta de valor, modelo de negocio, público objetivo
+- 💻 **WordPress/Wix** son demasiado técnicos para usuarios sin conocimientos
+- 💰 **Agencias tradicionales** son muy costosas ($1.000.000+ CLP)
+- 🏆 **Pierden oportunidades** de financiamiento por mala presentación digital
 
 ---
 
-## 🛤️ La Ruta del Emprendedor
+## 💡 **Nuestra Solución CONCRETA**
 
-Durante esta ruta, el emprendedor responderá a **preguntas clave** y aportará **texto, imágenes y videos** sobre su proyecto.  
-A partir de sus respuestas, la plataforma generará una **plantilla de sitio web personalizada**, adaptada al estilo, rubro y necesidades del emprendimiento.
+### **"Ruta del Emprendedor" 🧭**
+Un **proceso guiado paso a paso** que ayuda a las PYMES a estructurar su negocio mientras desarrollamos su presencia digital profesional.
 
-Esta plantilla será totalmente editable, permitiendo:
-- Mover elementos visuales.  
-- Cambiar tamaños, colores y disposición.  
-- Ajustar secciones según preferencias o rubro.  
+### **¿CÓMO funciona realmente?**
 
-En otras palabras, **una experiencia guiada, intuitiva y personalizada**, que combina el acompañamiento humano con la flexibilidad digital.
+#### **Fase 1: Ruta Guiada (Stepper Interactivo)**
+```
+Paso 1 → Información Básica del Negocio
+Paso 2 → Definición de Propuesta de Valor  
+Paso 3 → Identificación del Cliente Ideal
+Paso 4 → Estructuración del Modelo de Negocio
+Paso 5 → Recopilación de Contenido
+```
 
----
+#### **Fase 2: Desarrollo Humano con Código Real**
+- ✅ **Tomamos la información** recopilada en la ruta
+- ✅ **Seleccionamos plantillas REALES** (back-end + front-end desarrollado por nosotros)
+- ✅ **Desarrollamos el sitio web** con código profesional
+- ✅ **Personalizamos** según necesidades específicas del cliente
 
-## 🎯 Objetivos del Proyecto
-
-- **Empoderar a las PYMEs** para que desarrollen presencia digital sólida sin depender totalmente de terceros.  
-- **Simplificar el proceso de creación web**, mediante una guía paso a paso (la “Ruta del Emprendedor”).  
-- **Mejorar el alcance en redes sociales**, incorporando sugerencias y plantillas para publicaciones.  
-- **Fomentar la identidad y reflexión del emprendimiento**, ayudando al cliente a entender qué transmite su marca.  
-- **Gamificar la experiencia**, motivando al usuario a completar etapas y lograr metas de desarrollo digital.
-
----
-
-## 🔍 Diferenciación
-
-A diferencia de plataformas genéricas como **WordPress o Wix**, nuestra propuesta se basa en:
-
-| Aspecto                      | Plataformas tradicionales | Ruta del Emprendedor                            |
-| ---------------------------- | ------------------------- | ----------------------------------------------- |
-| **Asistencia personalizada** | Limitada o nula           | Acompañamiento guiado paso a paso               |
-| **Diseño inicial**           | Plantillas genéricas      | Generadas según la identidad del negocio        |
-| **Enfoque**                  | Global y masivo           | PYMEs, fondos concursables y microemprendedores |
-| **Interacción**              | Técnica y compleja        | Amigable, humana y reflexiva                    |
-| **Motivación**               | Herramienta pura          | Experiencia gamificada y formativa              |
+#### **Fase 3: Entrega y Acompañamiento**
+- 🎨 **Preview simple** para que cliente vea estructura básica
+- 🤝 **Reuniones de ajuste** con nuestro equipo
+- 🚀 **Entrega de sitio web funcional** y profesional
+- 📚 **Capacitación básica** para gestión de contenido
 
 ---
 
-## 🧱 Público Objetivo
+## 🛠️ **Stack Tecnológico REAL**
 
-- PYMEs en proceso de digitalización.  
-- Emprendedores que postulan a **fondos concursables**.  
-- Pequeños negocios que buscan **crear o renovar su presencia web**.  
-- Diseñadores y desarrolladores interesados en ofrecer experiencias personalizadas a través de la plataforma.
+### **Para Desarrollo de Plantillas:**
+- **Frontend:** HTML5, CSS3, JavaScript, React
+- **Backend:** Node.js/Express o Django
+- **Base de datos:** PostgreSQL
+- **Hosting:** Servidores locales chilenos
 
----
-
-## 🧠 Valor Agregado
-
-- Un **proceso de descubrimiento empresarial** a través de preguntas estratégicas.  
-- Herramientas visuales y multimedia para expresar la esencia del emprendimiento.  
-- Un entorno accesible y amigable para usuarios sin conocimientos técnicos.  
-- Integración futura con **publicaciones automáticas en redes sociales** y estrategias de alcance digital.
+### **Para la Plataforma de Ruta:**
+- **Interfaz stepper:** React con componentes modulares
+- **Almacenamiento:** MongoDB para respuestas de usuarios
+- **Sistema de preview:** Componentes visuales básicos
 
 ---
 
-## 🔮 Próximos Pasos
+## 🎯 **Modelo de Servicio CLARO**
 
-1. Definición técnica del **MVP (Producto Mínimo Viable)**.  
-2. Diseño de la **interfaz de la “Ruta del Emprendedor”**.  
-3. Creación del **motor de generación de plantillas dinámicas**.  
-4. Integración con APIs de redes sociales (fase posterior).  
-5. Pruebas piloto con PYMEs reales.  
+### **Proceso de Trabajo Típico:**
+```
+Día 1: Cliente completa "Ruta del Emprendedor" (30-40 min)
+Día 2: Nuestro equipo analiza y selecciona plantilla adecuada
+Día 3-4: Desarrollo con código REAL (back-end + front-end)
+Día 5: Reunión de ajustes y personalizaciones
+Día 6: Entrega final + capacitación
+```
+
+### **Planes de Servicio:**
+
+#### **Plan Esencial** ($129.000 CLP)
+- ✅ Ruta del Emprendedor completa
+- ✅ 1 plantilla profesional desarrollada
+- ✅ 2 reuniones de asesoría
+- ✅ Dominio y hosting 1 año
+- ✅ Sitio web optimizado para fondos concursables
+
+#### **Plan Profesional** ($279.000 CLP)
+- ✅ Todo lo del plan esencial
+- ✅ Plantilla premium con funcionalidades avanzadas
+- ✅ 4 reuniones de asesoría estratégica
+- ✅ Estrategia básica de redes sociales
+- ✅ Preparación específica para fondos
+- ✅ 3 meses de soporte
 
 ---
 
-## 👥 Equipo de Desarrollo
+## ⚡ **Diferenciadores REALES**
 
-**Proyecto desarrollado por estudiantes de la Universidad San Sebastián (USS)**  
-como parte del **Banco Santander Training Emprende 2025**.  
+### **No somos una plataforma automática:**
+```
+❌ NO usamos IA para generar sitios
+❌ NO son plantillas genéricas de WordPress
+❌ NO es desarrollo completamente automatizado
 
-> Inspirado en el propósito de fortalecer el ecosistema emprendedor chileno a través de la digitalización.
+✅ SÍ es desarrollo humano con guía previa
+✅ SÍ son plantillas reales con código adaptado  
+✅ SÍ hay acompañamiento y reuniones personalizadas
+✅ SÍ entendemos fondos concursables chilenos
+```
+
+### **Valor para el Cliente:**
+- 🎯 **Enfoque en fondos concursables** - Sabemos qué buscan CORFO, Sercotec, Santander
+- 🧩 **Estructuración de negocio** - Ayudamos a definir propuesta de valor real
+- 💼 **Precios accesibles** - 70% más económico que agencias tradicionales
+- 🚀 **Tiempos rápidos** - 1 semana vs 1-3 meses de agencias
+- 🤝 **Acompañamiento real** - No los dejamos solos después de la venta
 
 ---
 
-© 2025 — *Banco Santander Training Emprende USS*  
-**Todos los derechos reservados.**
+## 🎨 **Tipos de Plantillas Disponibles**
+
+### **Plantilla "Servicios Profesionales"**
+- Ideal: Consultorías, abogados, psicólogos, coaches
+- Incluye: Presentación de servicios, testimonios, formulario de contacto
+- Enfocada: Comunicar expertise y profesionalismo
+
+### **Plantilla "Productos y Ventas"**  
+- Ideal: Tiendas físicas, productos locales, artesanías
+- Incluye: Galería de productos, información de ventas, ubicación
+- Enfocada: Mostrar productos y facilitar contacto comercial
+
+### **Plantilla "Portafolio Creativo"**
+- Ideal: Diseñadores, fotógrafos, artistas, creadores
+- Incluye: Galería de trabajos, sobre mí, proceso creativo
+- Enfocada: Exhibir talento y estilo personal
 
 ---
+
+## 📊 **Impacto en Fondos Concursables**
+
+### **Preparamos PYMES para éxito en postulaciones:**
+- 📝 **Estructuración clara** de propuesta de valor
+- 🎯 **Definición precisa** de modelo de negocio
+- 👥 **Identificación exacta** de mercado objetivo
+- 💡 **Comunicación efectiva** de diferenciación competitiva
+- 🌐 **Presencia digital profesional** que valida seriedad
+
+### **Ejemplo Real:**
+```
+"Señora Marta - Mermeladas Artesanales"
+
+ANTES:
+- Página Facebook desactualizada
+- No tenía propuesta de valor clara
+- No sabía comunicar su diferencial
+
+DESPUÉS:
+- Sitio web profesional con historia familiar
+- Propuesta de valor: "Recetas ancestrales, ingredientes locales"
+- Modelo de negocio claro: Venta directa + e-commerce
+- Lista para postular a fondos Sercotec
+```
+
+---
+
+## 🚀 **Próximos Pasos Inmediatos**
+
+### **Desarrollo de MVP:**
+1. **Stepper de Ruta del Emprendedor** (5 pasos clave)
+2. **3 Plantillas base** desarrolladas con código real
+3. **Sistema de preview** básico para clientes
+4. **Proceso de onboarding** y reuniones definido
+
+### **Validación de Mercado:**
+- Pruebas con 10 PYMES reales de Concepción
+- Feedback sobre proceso y resultados
+- Ajuste de preguntas y plantillas
+
+---
+
+## 👥 **Equipo de Desarrollo**
+
+**Javier Morales Subaru** - CEO & Desarrollo Full-Stack  
+**Benjamín Cruz Espinoza** - CPO & Experiencia de Usuario  
+**Carlos Bastidas Pereira** - CTO & Arquitectura Backend  
+**Ignacio Barra Chaparro** - CTO & Sistemas y Escalabilidad  
+**Benjamin Campos Vargas** - CFO & Modelo de Negocio  
+**Victor Cisternas Hermosilla** - CPO & Diseño y Branding  
+
+---
+
+> **"No automatizamos sitios web, guiamos emprendimientos hacia el éxito digital con desarrollo real y acompañamiento humano."**
+
+*Universidad San Sebastián - Concepción*  
+*Ingeniería Civil Informática*  
+*Octubre 2025*
