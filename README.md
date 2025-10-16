@@ -3,7 +3,7 @@
 Nota: WebBlocks es un nombre provisional, sujeto a cambios.
 ```
 > **Propuesta Integral del Proyecto**  
-> Presentada por: **Javier Morales Subaru**, **Benjamín Cruz Espinoza**, **Carlos Bastidas Pereira**, **Ignacio Barra Chaparro** & **Benjamin Campos Vargas** 
+> Presentada por: **Javier Morales Subaru**, **Benjamín Cruz Espinoza**, **Carlos Bastidas Pereira**, **Ignacio Barra Chaparro**, **Benjamin Campos Vargas** & **Victor Cisternas**
 > 
 > Estudiantes de Ingeniería Civil Informática – Universidad San Sebastián, Concepción  
 >  
@@ -696,6 +696,9 @@ Con el apoyo del **Fondo Santander** y la retroalimentación de expertos como el
 📧 [bcamposv@correo.uss.cl](mailto:bcamposv@correo.uss.cl)  
 📱 [+569 9088 1759]
 
+**Victor Cisternas*  
+📧 [correo.uss.cl]()  
+📱 [+569 1234 5678]
 ---
 
 **Universidad San Sebastián – Concepción**  
@@ -706,3 +709,4 @@ Ingeniería Civil Informática
 ---
 
 > **"Haciendo la tecnología accesible, bloque a bloque."** 🧱
+
