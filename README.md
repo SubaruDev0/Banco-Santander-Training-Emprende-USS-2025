@@ -1,199 +1,218 @@
-# 🚀 **Ruta del Emprendedor Digital** - Plataforma de Desarrollo Web para PYMES
+# 🌐 **ByPyme – Consultora Digital para PYMEs y Startups**
 
-> **Propuesta Específica y Realista**  
-> Presentada por: **Javier Morales Subaru, Benjamín Cruz Espinoza, Carlos Bastidas Pereira, Ignacio Barra Chaparro, Benjamin Campos Vargas & Victor Cisternas** 
-> 
-> Estudiantes de Ingeniería Civil Informática – Universidad San Sebastián, Concepción  
->  
-> **Contexto:** Postulación al *Fondo Santander Training | Emprende USS 2025*  
-> **Fecha:** Octubre 2025  
+**Presentación:**
+ByPyme combina **desarrollo web profesional** con **consultoría estratégica** para emprendedores. Nuestro objetivo es que cada PYME o startup tenga **claridad en su propuesta de valor**, comprenda los **puntos clave de su negocio** y obtenga un **sitio web funcional y atractivo**, adaptado a su identidad y necesidades.
 
 ---
 
-## 🧩 **Problemática Real**
+## 📋 **Índice**
 
-Las **PYMES y emprendedores chilenos** enfrentan problemas concretos:
+1. [Visión General](#-visión-general)
+2. [Problema que Resolvemos](#-problema-que-resolvemos)
+3. [La Solución ByPyme](#-la-solución-bypyme)
 
-- 📊 **No saben comunicar** su valor para fondos concursables (CORFO, Sercotec, Santander)
-- 🎯 **Carecen de estructura** clara: propuesta de valor, modelo de negocio, público objetivo
-- 💻 **WordPress/Wix** son demasiado técnicos para usuarios sin conocimientos
-- 💰 **Agencias tradicionales** son muy costosas ($1.000.000+ CLP)
-- 🏆 **Pierden oportunidades** de financiamiento por mala presentación digital
-
----
-
-## 💡 **Nuestra Solución CONCRETA**
-
-### **"Ruta del Emprendedor" 🧭**
-Un **proceso guiado paso a paso** que ayuda a las PYMES a estructurar su negocio mientras desarrollamos su presencia digital profesional.
-
-### **¿CÓMO funciona realmente?**
-
-#### **Fase 1: Ruta Guiada (Stepper Interactivo)**
-```
-Paso 1 → Información Básica del Negocio
-Paso 2 → Definición de Propuesta de Valor  
-Paso 3 → Identificación del Cliente Ideal
-Paso 4 → Estructuración del Modelo de Negocio
-Paso 5 → Recopilación de Contenido
-```
-
-#### **Fase 2: Desarrollo Humano con Código Real**
-- ✅ **Tomamos la información** recopilada en la ruta
-- ✅ **Seleccionamos plantillas REALES** (back-end + front-end desarrollado por nosotros)
-- ✅ **Desarrollamos el sitio web** con código profesional
-- ✅ **Personalizamos** según necesidades específicas del cliente
-
-#### **Fase 3: Entrega y Acompañamiento**
-- 🎨 **Preview simple** para que cliente vea estructura básica
-- 🤝 **Reuniones de ajuste** con nuestro equipo
-- 🚀 **Entrega de sitio web funcional** y profesional
-- 📚 **Capacitación básica** para gestión de contenido
+   * Clientes
+   * Ruta del Emprendedor
+   * Ejemplo de Flujo
+4. [Servicios Incluidos](#-servicios-incluidos)
+5. [Beneficios](#-beneficios)
+6. [Mockups y Ejemplos Visuales](#-mockups-y-ejemplos-visuales)
+7. [Stack Tecnológico](#-stack-tecnológico)
+8. [Equipo](#-equipo)
+9. [Generación de Empleo](#-generación-de-empleo)
+10. [Conclusión](#-conclusión)
 
 ---
 
-## 🛠️ **Stack Tecnológico REAL**
+## 🎯 Visión General
 
-### **Para Desarrollo de Plantillas:**
-- **Frontend:** HTML5, CSS3, JavaScript, React
-- **Backend:** Node.js/Express o Django
-- **Base de datos:** PostgreSQL
-- **Hosting:** Servidores locales chilenos
+ByPyme es un **servicio integral de desarrollo web y consultoría digital** para PYMEs y startups.
 
-### **Para la Plataforma de Ruta:**
-- **Interfaz stepper:** React con componentes modulares
-- **Almacenamiento:** MongoDB para respuestas de usuarios
-- **Sistema de preview:** Componentes visuales básicos
+- Plantillas **hechas por nuestro equipo**, con **frontend y backend completo**, totalmente editables y escalables.  
+- Rápidas y optimizadas, sin las limitaciones de plataformas externas como Wix o WordPress.  
+- Permite a los emprendedores **entender su propuesta de valor** y comunicar los elementos clave de su negocio de forma clara y efectiva.  
+- Combina **plantillas listas para usar** con **personalización estratégica**.  
+- Incluye un **proceso guiado con IA**, llamado **Ruta del Emprendedor**, que optimiza la creación del sitio web y reduce el tiempo en reuniones.
+
 
 ---
 
-## 🎯 **Modelo de Servicio CLARO**
+## 🔍 **Problema que Resolvemos**
 
-### **Proceso de Trabajo Típico:**
-```
-Día 1: Cliente completa "Ruta del Emprendedor" (30-40 min)
-Día 2: Nuestro equipo analiza y selecciona plantilla adecuada
-Día 3-4: Desarrollo con código REAL (back-end + front-end)
-Día 5: Reunión de ajustes y personalizaciones
-Día 6: Entrega final + capacitación
-```
-
-### **Planes de Servicio:**
-
-#### **Plan Esencial** ($129.000 CLP)
-- ✅ Ruta del Emprendedor completa
-- ✅ 1 plantilla profesional desarrollada
-- ✅ 2 reuniones de asesoría
-- ✅ Dominio y hosting 1 año
-- ✅ Sitio web optimizado para fondos concursables
-
-#### **Plan Profesional** ($279.000 CLP)
-- ✅ Todo lo del plan esencial
-- ✅ Plantilla premium con funcionalidades avanzadas
-- ✅ 4 reuniones de asesoría estratégica
-- ✅ Estrategia básica de redes sociales
-- ✅ Preparación específica para fondos
-- ✅ 3 meses de soporte
+| Problema                                                       | Cómo lo resolvemos                                                                                                                                                                    |
+| -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Falta de claridad en la propuesta de valor y modelo de negocio | La **Ruta del Emprendedor** guía al cliente para identificar su propuesta de valor y otros elementos clave (segmentos de clientes, canales, métricas, etc.) de manera simple y clara. |
+| Altos costos de desarrollo web                                 | Uso de **plantillas base con personalización incluida**, además de hosting y dominio incluidos.                                                                                       |
+| Complejidad en herramientas digitales                          | Interfaz intuitiva y IA que recomienda **plantilla y addons** según necesidades del cliente.                                                                                          |
+| Tiempo de lanzamiento                                          | Flujo guiado y recomendaciones prearmadas que reducen los tiempos de diseño y desarrollo.                                                                                             |
 
 ---
 
-## ⚡ **Diferenciadores REALES**
+## 💡 **La Solución ByPyme**
 
-### **No somos una plataforma automática:**
-```
-❌ NO usamos IA para generar sitios
-❌ NO son plantillas genéricas de WordPress
-❌ NO es desarrollo completamente automatizado
+### **Clientes**
 
-✅ SÍ es desarrollo humano con guía previa
-✅ SÍ son plantillas reales con código adaptado  
-✅ SÍ hay acompañamiento y reuniones personalizadas
-✅ SÍ entendemos fondos concursables chilenos
+1. **Clientes definidos:**
+
+   * Ya saben qué plantilla quieren del catálogo.
+   * Personalización básica incluida (logo, colores, textos e imágenes).
+   * Dominio + hosting + 1 mes de mantenimiento.
+   * Opcionales: addons o funcionalidades extra.
+
+2. **Clientes en formación / emprendedores en desarrollo:**
+
+   * No tienen definida su propuesta de valor ni modelo de negocio completo.
+   * Utilizan la **Ruta del Emprendedor**, con preguntas estratégicas y simples para comprender su emprendimiento.
+   * La IA recomienda **plantilla demo**, personalización y posibles addons.
+   * El cliente revisa la propuesta, ajusta y confirma la compra.
+
+---
+
+### **Ruta del Emprendedor – Flujo Simplificado**
+
+```text
+[Inicio Ruta del Emprendedor] 
+          |
+          v
+ [Preguntas estratégicas sobre tu negocio]
+          |
+          v
+ [IA analiza respuestas]
+          |
+          v
+ [Resultados entregados al cliente:]
+   - Propuesta de valor clara
+   - Modelo de negocio resumido
+   - Segmentos de clientes
+   - Canales y métricas
+   - Otros elementos clave del emprendimiento
+          |
+          v
+ [Plantilla demo + addons recomendados]
+          |
+          v
+ [Cliente revisa, ajusta y confirma compra]
+          |
+          v
+ [Reunión final con el equipo y entrega del sitio web]
 ```
 
-### **Valor para el Cliente:**
-- 🎯 **Enfoque en fondos concursables** - Sabemos qué buscan CORFO, Sercotec, Santander
-- 🧩 **Estructuración de negocio** - Ayudamos a definir propuesta de valor real
-- 💼 **Precios accesibles** - 70% más económico que agencias tradicionales
-- 🚀 **Tiempos rápidos** - 1 semana vs 1-3 meses de agencias
-- 🤝 **Acompañamiento real** - No los dejamos solos después de la venta
+**Preguntas ejemplo de la Ruta del Emprendedor:**
+
+* ¿Por qué alguien elegiría tu producto sobre otro?
+* ¿Existen productos similares en el mercado?
+* ¿Qué funcionalidades deseas en tu web?
+* ¿Qué objetivos quieres lograr con tu sitio?
+* ¿Cómo medirías el éxito de tu negocio?
+
+**Resultados entregados al cliente:**
+
+* Propuesta de valor clara y concreta
+* Modelo de negocio resumido
+* Plantilla recomendada con add-ons sugeridos
+* Precio estimado y opciones de personalización
 
 ---
 
-## 🎨 **Tipos de Plantillas Disponibles**
+## ✅ **Servicios Incluidos**
 
-### **Plantilla "Servicios Profesionales"**
-- Ideal: Consultorías, abogados, psicólogos, coaches
-- Incluye: Presentación de servicios, testimonios, formulario de contacto
-- Enfocada: Comunicar expertise y profesionalismo
+- Plantilla **propia y optimizada** (**frontend + backend completo**), desarrollada por nuestro equipo  
+  - Totalmente editable y escalable según las necesidades del cliente  
+  - Rápida y sin las limitaciones de plataformas externas como Wix o WordPress  
+- Personalización básica: logo, colores, textos e imágenes  
+- Integración de formularios y redes sociales  
+- Dominio y hosting configurados  
+- 1 mes de mantenimiento inicial  
+- Reuniones consultivas para ajustes  
 
-### **Plantilla "Productos y Ventas"**  
-- Ideal: Tiendas físicas, productos locales, artesanías
-- Incluye: Galería de productos, información de ventas, ubicación
-- Enfocada: Mostrar productos y facilitar contacto comercial
+> Opcionales: funcionalidades o addons extra según necesidad del cliente.
 
-### **Plantilla "Portafolio Creativo"**
-- Ideal: Diseñadores, fotógrafos, artistas, creadores
-- Incluye: Galería de trabajos, sobre mí, proceso creativo
-- Enfocada: Exhibir talento y estilo personal
 
 ---
 
-## 📊 **Impacto en Fondos Concursables**
+## 🌟 **Beneficios**
 
-### **Preparamos PYMES para éxito en postulaciones:**
-- 📝 **Estructuración clara** de propuesta de valor
-- 🎯 **Definición precisa** de modelo de negocio
-- 👥 **Identificación exacta** de mercado objetivo
-- 💡 **Comunicación efectiva** de diferenciación competitiva
-- 🌐 **Presencia digital profesional** que valida seriedad
+**Para el Cliente:**
 
-### **Ejemplo Real:**
+* Claridad en los elementos clave de su negocio
+* Sitio web adaptado a sus necesidades
+* Recomendaciones personalizadas y accesibles
+
+**Para ByPyme:**
+
+* Reducción de tiempo en reuniones iniciales
+* Información clara para el equipo de desarrollo
+* Optimización de personalización y entrega
+
+---
+
+## 🖼 **Mockups y Ejemplos Visuales**
+
+**Plantilla Demo – Tienda de Artesanía**
+
 ```
-"Señora Marta - Mermeladas Artesanales"
-
-ANTES:
-- Página Facebook desactualizada
-- No tenía propuesta de valor clara
-- No sabía comunicar su diferencial
-
-DESPUÉS:
-- Sitio web profesional con historia familiar
-- Propuesta de valor: "Recetas ancestrales, ingredientes locales"
-- Modelo de negocio claro: Venta directa + e-commerce
-- Lista para postular a fondos Sercotec
++-------------------------------+
+| Logo | Menú | Carrito         |
++-------------------------------+
+| Banner con producto estrella  |
++-------------------------------+
+| Sección "Sobre Nosotros"      |
++-------------------------------+
+| Productos destacados           |
+| [Imagen] [Nombre] [Precio]    |
++-------------------------------+
+| Formulario de contacto         |
++-------------------------------+
+| Redes sociales + Footer        |
++-------------------------------+
 ```
 
----
+**Add-ons recomendados:**
 
-## 🚀 **Próximos Pasos Inmediatos**
-
-### **Desarrollo de MVP:**
-1. **Stepper de Ruta del Emprendedor** (5 pasos clave)
-2. **3 Plantillas base** desarrolladas con código real
-3. **Sistema de preview** básico para clientes
-4. **Proceso de onboarding** y reuniones definido
-
-### **Validación de Mercado:**
-- Pruebas con 10 PYMES reales de Concepción
-- Feedback sobre proceso y resultados
-- Ajuste de preguntas y plantillas
+* Chat en vivo
+* Newsletter
+* Integración con Instagram
+* Sistema de reservas / pagos
 
 ---
 
-## 👥 **Equipo de Desarrollo**
+## ⚙️ **Stack Tecnológico**
 
-**Javier Morales Subaru** - CEO & Desarrollo Full-Stack  
-**Benjamín Cruz Espinoza** - CPO & Experiencia de Usuario  
-**Carlos Bastidas Pereira** - CTO & Arquitectura Backend  
-**Ignacio Barra Chaparro** - CTO & Sistemas y Escalabilidad  
-**Benjamin Campos Vargas** - CFO & Modelo de Negocio  
-**Victor Cisternas Hermosilla** - CPO & Diseño y Branding  
+* **Backend:** Django
+* **Frontend:** React / Angular / Astro
+* **Base de datos:** PostgreSQL
+* **Hosting y dominio:** Incluidos
+* **IA:** Procesamiento de lenguaje natural para análisis de la Ruta del Emprendedor
+* **Control de versiones:** Git
+* **Testing automatizado**
 
 ---
 
-> **"No automatizamos sitios web, guiamos emprendimientos hacia el éxito digital con desarrollo real y acompañamiento humano."**
+## 👥 **Equipo**
 
-*Universidad San Sebastián - Concepción*  
-*Ingeniería Civil Informática*  
-*Octubre 2025*
+* Estudiantes de Ingeniería Civil Informática y Diseño UX/UI
+* Roles: Desarrollo, Diseño, Consultoría
+* Mentores para soporte y feedback
+
+> Esta sección sirve para contexto del proyecto y posibles apoyos futuros. No estamos reclutando activamente colaboradores.
+
+---
+
+## 💼 **Generación de Empleo y Comunidad**
+
+* Programadores, diseñadores y freelancers para crear nuevas plantillas, addons y mantener sitios.
+* Comunidad para compartir componentes y optimizaciones.
+
+---
+
+## 🎉 **Conclusión**
+
+ByPyme combina **desarrollo web, consultoría estratégica y herramientas IA** para que las PYMEs y startups:
+
+* Entiendan su propuesta de valor y demás elementos clave de su negocio
+* Obtengan un sitio web funcional y atractivo
+* Reduzcan tiempo y costos en el proceso
+
+> **"Tu emprendimiento, tu web, tu valor, con ByPyme."**
+
+---
