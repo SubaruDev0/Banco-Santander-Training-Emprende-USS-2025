@@ -1,712 +1,524 @@
-# 🌐 **WebBlocks – Plataforma de Desarrollo Web Modular**
+# ByPyme — Brief Creativo y de Desarrollo
+
+## Resumen Ejecutivo
+
+**ByPyme** es una consultora digital que democratiza la presencia web para PYMEs y startups en Chile. Combinamos desarrollo web profesional con consultoría estratégica a través de nuestra herramienta diferenciadora: **La Ruta del Emprendedor**, un proceso guiado que ayuda a los emprendedores a definir su propuesta de valor antes de construir su sitio web.
+
+---
+
+## 🎯 El Problema que Resolvemos
+
+Las PYMEs y startups enfrentan:
+
+- **Falta de claridad estratégica** — No tienen definida su propuesta de valor ni modelo de negocio
+- **Costos elevados** — Desarrollo web tradicional entre $500.000 - $2.000.000 CLP
+- **Tiempo perdido** — Desde 4 reuniones iniciales que podrían evitarse
+- **Complejidad técnica** — Plataformas como WordPress o Wix con limitaciones y curva de aprendizaje. Bien se puede pagar a alguien para crearlas, pero suelen verse poco profesionales y cargan muy lento, lo que hace que los clientes se aburran y abandonen el sitio
+- **Falta de metodología clara** — Procesos desordenados sin estructura definida
+
+---
+
+## 💡 Nuestra Solución
+
+### Dos Caminos, Un Objetivo
+
+**1. Para clientes definidos** (saben lo que quieren)
+- Acceso directo al marketplace de plantillas
+- Personalización inmediata
+- Entrega rápida
+
+**Incluye el paquete base completo:**
+
+✅ Primera reunión de entrega + 1 reunión adicional para ajustes (si son necesarios)  
+✅ Plantilla completa (frontend + backend desarrollado por nosotros)  
+✅ Totalmente editable y escalable  
+✅ Personalización básica (logo, colores, textos, imágenes)  
+✅ Integración de formularios y redes sociales  
+✅ Dominio configurado  
+✅ Hosting incluido  
+✅ 1 mes de mantenimiento inicial
+
+**2. Para emprendedores en desarrollo** (nuestra especialidad)
+- Proceso guiado con **La Ruta del Emprendedor**
+- Claridad estratégica antes del desarrollo
+- Recomendaciones personalizadas por IA
+- 1 reunión de entrega + 1 reunión adicional para ajustes (vs desde 4 reuniones tradicionales)
+
+### La Ruta del Emprendedor
+
+Sistema de preguntas estratégicas organizadas por secciones temáticas que ayuda al emprendedor a descubrir los elementos clave de su negocio:
+
+**Cada sección incluye múltiples preguntas enfocadas:**
+
+**Propuesta de valor:**
+- ¿Qué problema específico resuelves para tus clientes?
+- ¿Por qué te elegirían sobre la competencia?
+- ¿Qué beneficios concretos ofreces?
+- ...
+
+**Segmentos de clientes:**
+- ¿Quién es tu cliente ideal?
+- ¿Qué características demográficas tiene?
+- ¿Dónde pasan su tiempo?
+- ...
+
+**Canales:**
+- ¿Cómo llegarás a tus clientes?
+- ¿Qué medios utilizarás para comunicarte?
+- ...
+
+**Relaciones con clientes:**
+- ¿Qué tipo de vínculo establecerás?
+- ¿Será personalizado o automatizado?
+- ...
+
+**Fuentes de ingresos:**
+- ¿Cómo monetizarás tu negocio?
+- ¿Qué modelo de precios utilizarás?
+- ...
+
+**Recursos clave:**
+- ¿Qué necesitas para operar?
+- ¿Qué activos son fundamentales?
+- ...
+
+**Actividades clave:**
+- ¿Qué harás día a día?
+- ¿Cuáles son tus procesos principales?
+- ...
+
+**Alianzas clave:**
+- ¿Con quién colaborarás?
+- ¿Qué proveedores necesitas?
+- ...
+
+**Estructura de costos:**
+- ¿Cuáles son tus gastos principales?
+- ¿Qué costos son fijos y cuáles variables?
+- ...
+
+**Modelo de negocio:**
+- ¿Cómo se integran todos estos elementos?
+- ¿Cómo funcionará tu negocio en conjunto?
+- ...
+
+**Métricas de éxito:**
+- ¿Cómo medirás tu avance?
+- ¿Qué indicadores son importantes para ti?
+- ...
+
+**Resultado:** Un modelo de negocio claro + plantilla web recomendada + funcionalidades sugeridas
+
+---
+
+## 📊 Comparativa de Mercado
+
+### Precios de Desarrollo Web en Chile (2025)
+
+| Servicio | Costo Promedio | Características |
+|----------|----------------|-----------------|
+| **Landing Page Básica** | $150.000 - $500.000 | 1 página, formulario, responsive |
+| **Sitio Corporativo** | $350.000 - $800.000 | 5-8 páginas, blog básico |
+| **E-commerce** | $500.000 - $2.000.000 | Carrito, pagos, gestión productos |
+| **Desarrollo Avanzado** | $2.000.000 - $5.000.000 | Funcionalidades complejas |
+| **Freelancer (hora)** | $36.000 - $50.000 | Variable calidad, sin metodología |
+| **Agencia Tradicional** | $500.000 - $2.000.000 | Múltiples reuniones, 2-3 semanas |
+
+### Costos Asociados
+
+| Concepto | Precio Anual | Notas |
+|----------|--------------|-------|
+| **Dominio .cl** | $7.990 - $20.000 | NIC Chile oficial |
+| **Dominio .com** | $11.000 - $17.000 | Internacional |
+| **Hosting Básico** | $10.000 - $40.000 | Blog o sitio informativo |
+| **Hosting Empresarial** | $20.000 - $500.000 | E-commerce, alto tráfico |
+| **Certificado SSL** | Gratis - $30.000 | Mayoría incluido en hosting |
+| **Mantenimiento Mensual** | $30.000+ | Actualizaciones y soporte |
+
+### Ventaja ByPyme
+
+| Concepto | Mercado Tradicional | ByPyme |
+|----------|---------------------|--------|
+| **Reuniones iniciales** | Desde 4 sesiones | 1 de entrega + 1 de ajustes |
+| **Tiempo de entrega** | 2-3 semanas | 1-2 semanas |
+| **Claridad estratégica** | Responsabilidad del cliente | Guiada e incluida |
+| **Plantilla** | A medida desde cero | Optimizada y probada |
+| **Hosting + Dominio** | Gestión separada | Incluido y configurado |
+
+---
+
+## 🏗️ Estructura del Prototipo
+
+### 1. Home / Inicio
+
+**Objetivo:** Captar atención y dirigir hacia la Ruta del Emprendedor
+
+**Elementos:**
+- Hero section con mensaje central (ejemplo): *"Tu negocio, tu web, sin complicaciones"*
+- Beneficios claros: Rápido · Estratégico · Económico
+- Llamado a la acción principal (ejemplo): **"Comenzar Ruta del Emprendedor"**
+- Llamado a la acción secundario (ejemplo): "Ver Plantillas Directas"
+- Testimonios simulados
+- Métricas de confianza
+- Visual del "Monigote Emprendedor" iniciando su viaje
+
+> **Nota:** Los textos mostrados son ejemplos orientativos, se definirán los definitivos en desarrollo.
+
+---
+
+### 2. Quiénes Somos / About Us
+
+**Objetivo:** Generar confianza y comunicar propósito
+
+**Contenido:**
+- **Misión:** Democratizar la presencia digital de las PYMEs chilenas
+- **Problema identificado:** Complejidad técnica + Altos costos + Falta de claridad
+- **Nuestra solución única:** Ruta del Emprendedor + Plantillas optimizadas + Soporte continuo
+- **Equipo:** Estudiantes de Ing. Civil Informática y de Animación Digital
+- **Compromiso:** Actualización, cercanía humana, asesoría real
+
+---
+
+### 3. Marketplace de Plantillas
+
+**Objetivo:** Venta directa para clientes con claridad estratégica
+
+**Categorías disponibles:**
+- 🌐 Landing Pages
+- 📝 Blogs
+- 🛒 E-commerce
+- 📊 Dashboards
+- 🏢 Sitios Corporativos
+- 🎬 Plataformas Video
+- 📅 Sistemas de Reservas
+- 🎨 Portfolios
+
+**Cada plantilla incluye:**
+- Vista previa interactiva
+- Precio base transparente
+- Lista detallada de inclusiones
+- Selector de funcionalidades extras con checkboxes
+- Sistema de comisiones para colaboradores externos
+
+> **Nota:** Esta sección representa "saltarse la Ruta". Ideal para usuarios avanzados o con presupuesto mayor.
+
+---
+
+### 4. Ruta del Emprendedor
+
+**Objetivo:** Guiar al emprendedor desde la confusión hasta la claridad
+
+**Flujo del proceso (ejemplo):**
+
 ```
-Nota: WebBlocks es un nombre provisional, sujeto a cambios.
+[Bienvenida]
+    ↓
+[Preguntas Estratégicas por Sección]
+Propuesta de Valor:
+- ¿Qué problema resuelves?
+- ¿Por qué te elegirían?
+- ...
+
+Segmentos de Clientes:
+- ¿Quién es tu cliente ideal?
+- ¿Qué características tiene?
+- ...
+
+[Continúa con todas las secciones mencionadas anteriormente]
+    ↓
+[Análisis IA]
+Procesamiento de respuestas
+    ↓
+[Resultados Entregados]
+- Propuesta de valor clara
+- Modelo de negocio resumido
+- Segmentos de clientes identificados
+- Canales, relaciones, recursos, actividades, alianzas
+- Estructura de costos y fuentes de ingreso
+- Métricas de éxito sugeridas
+- Todos los elementos clave del emprendimiento
+    ↓
+[Propuesta Personalizada]
+- Plantilla recomendada por IA
+- Funcionalidades sugeridas (recomendadas)
+- Funcionalidades extras disponibles (opcionales)
+- Sistema de checkboxes para seleccionar
+- Estimación de precio en tiempo real
+    ↓
+[Revisión y Ajuste del Cliente]
+Cliente puede agregar o quitar funcionalidades
+Ver cómo cambia el precio según sus elecciones
+Validar y modificar recomendaciones
+    ↓
+[Confirmación]
+    ↓
+[Reunión de Entrega + Reunión de Ajustes (si se necesita)]
 ```
-> **Propuesta Integral del Proyecto**  
-> Presentada por: **Javier Morales Subaru**, **Benjamín Cruz Espinoza**, **Carlos Bastidas Pereira**, **Ignacio Barra Chaparro**, **Benjamin Campos Vargas** & **Victor Cisternas**
-> 
-> Estudiantes de Ingeniería Civil Informática – Universidad San Sebastián, Concepción  
->  
-> **Contexto:** Postulación al *Fondo Santander Training | Emprende USS 2025*  
-> **Fecha:** Octubre 2025  
-> **Propósito:** Proveer contexto completo del proyecto para retroalimentación técnica y estratégica.
+
+**El Monigote Emprendedor** (evolución visual):
+
+| Paso (tentativo) | Visual | Representa |
+|------|--------|------------|
+| 1 | Con bindle (como el del Chavo del 8) | Inicio del viaje, idea inicial |
+| 2-3 | Vendiendo desde el mismo bindle | Validando concepto, probando mercado |
+| 4-5 | Stand tipo venta de limonadas | Primer modelo de negocio estructurado |
+| 6-7 | Afuera de su negocio establecido | Emprendimiento consolidado y funcionando |
+
+> **Nota importante:** La mascota aún está en desarrollo. Por ahora se busca definir su apariencia general, nombre, y crear versiones estáticas de cada etapa. Será posible mascota oficial del proyecto.
 
 ---
 
-## 📋 **Índice**
+## 🎨 Identidad Visual a Desarrollar
 
-1. [Visión General](#-visión-general)
-2. [El Problema que Resolvemos](#-el-problema-que-resolvemos)
-3. [La Solución: WebBlocks](#-la-solución-webblocks)
-4. [Estructura del Modelo de Negocio](#-estructura-del-modelo-de-negocio)
-5. [La Analogía de la Pizza](#-la-analogía-de-la-pizza)
-6. [Diferenciación Técnica y Competitiva](#-diferenciación-técnica-y-competitiva)
-7. [Casos de Uso Reales](#-casos-de-uso-reales)
-8. [Asistente IA: Accesibilidad para Todos](#-asistente-ia-accesibilidad-para-todos)
-9. [Generación de Empleo y Comunidad](#-generación-de-empleo-y-comunidad)
-10. [Stack Tecnológico](#-stack-tecnológico)
-11. [Producto Mínimo Viable (PMV)](#-producto-mínimo-viable-pmv)
-12. [Estrategia de Captación y Comercialización](#-estrategia-de-captación-y-comercialización)
-13. [Riesgos y Mitigación](#-riesgos-y-mitigación)
-14. [Oportunidades de Crecimiento](#-oportunidades-de-crecimiento)
-15. [Equipo y Participación](#-equipo-y-participación)
-16. [Aspectos Legales y Éticos](#-aspectos-legales-y-éticos)
-17. [Conclusión](#-conclusión)
+### Paleta de Colores
 
----
+**Por definir:**
+- [ ] Color principal (ejemplo de orientación: Azul corporativo #3B82F6)
+- [ ] Color secundario (ejemplo: Naranja energía #F97316)
+- [ ] Color de apoyo (ejemplo: Verde crecimiento #10B981)
+- [ ] Colores neutros (blancos, grises)
 
-## 🎯 **Visión General**
+**Consideraciones:** Confianza, profesionalismo, emprendimiento, dinamismo
 
-**WebBlocks** es una **plataforma de desarrollo web modular** que hace accesible una presencia digital profesional para **PYMEs, startups y emprendimientos** que no cuentan con los recursos para contratar desarrollos completamente personalizados, pero que necesitan mucho más que una página genérica hecha en Wix o WordPress.
+### Tipografía
 
-Nuestra propuesta combina:
-- ✅ **Plantillas completamente funcionales** (no solo diseño, sino código real con back-end y front-end).
-- ✅ **Componentes modulares** que permiten personalizar y escalar según necesidades específicas.
-- ✅ **Acompañamiento humano** con reuniones incluidas para entender y adaptar cada proyecto.
-- ✅ **Asistente IA integrado** que guía a cualquier usuario, incluso sin conocimientos técnicos.
-- ✅ **Código propio y optimizado**, desarrollado por programadores reales.
+**Por definir:**
+- [ ] Tipografía principal (ejemplos para orientar: Inter, Poppins, Cascadia Code PL)
+- [ ] Tipografía secundaria si es necesaria
+- [ ] Jerarquías y usos
 
----
+**Características buscadas:** Moderna, legible, versátil, profesional
 
-## 🔍 **El Problema que Resolvemos**
+### Estilo Gráfico
 
-### **Situación Actual del Mercado**
+**Por definir:**
+- [ ] Estilo general (flat design, ilustrado, minimalista, etc.)
+- [ ] Estilo de iconografía
+- [ ] Tratamiento de ilustraciones
+- [ ] Enfoque responsive (móvil primero)
 
-Las PYMEs y emprendimientos se enfrentan a tres opciones poco satisfactorias:
+### Logo
 
-| Opción | Ventaja | Desventaja |
-|--------|---------|------------|
-| **Plataformas automáticas** (Wix, WordPress, Shopify) | Rápidas y baratas | Limitadas, lentas, dependientes de plugins, sin soporte real |
-| **Desarrollo a medida** (agencias tradicionales) | Totalmente personalizado | Muy costoso (meses de trabajo, presupuestos altos) |
-| **Sin presencia digital** | Nada | Pierden competitividad y oportunidades |
+**Por definir:**
+- [ ] Concepto principal
+- [ ] Variantes necesarias
+- [ ] Escalabilidad
+- [ ] Versión monocromática
 
-### **El Vacío que Detectamos**
-
-Falta una **solución intermedia** que ofrezca:
-- Rapidez y accesibilidad económica de las plantillas.
-- Profesionalismo y escalabilidad de un desarrollo a medida.
-- Acompañamiento humano y soporte real.
-
-**Aquí entra WebBlocks.**
+**Consideraciones:** Simple, memorable, referencia a "PY" de Pyme
 
 ---
 
-## 💡 **La Solución: WebBlocks**
+## 💰 Modelo de Negocio
 
-WebBlocks ofrece **sitios web completamente funcionales** que pueden personalizarse y ampliarse mediante un **sistema modular de componentes** (*add-ons*), similar a armar con piezas de Lego.
+### Precio Base Incluye
 
-### **¿Qué hace diferente a WebBlocks?**
+✅ Reunión de entrega del producto  
+✅ 1 reunión adicional incluida para ajustes (si son necesarios)  
+✅ Plantilla completa (frontend + backend desarrollado por nosotros)  
+✅ Totalmente editable y escalable  
+✅ Personalización básica (logo, colores, textos, imágenes)  
+✅ Integración de formularios y redes sociales  
+✅ Dominio configurado  
+✅ Hosting incluido  
+✅ 1 mes de mantenimiento inicial
 
-#### 🧱 **1. Código Real, No Plantillas Visuales**
-A diferencia de Wix o WordPress, nuestras plantillas tienen:
-- **Back-end y front-end desarrollados** por programadores.
-- **Arquitectura sólida y escalable**.
-- **Optimización en rendimiento y seguridad**.
+### Servicios Opcionales (Extras)
 
-Esto significa que un proyecto que normalmente tomaría **1 mes de desarrollo desde cero**, puede entregarse en **1 semana o menos**, con reuniones incluidas para ajustar detalles con el cliente.
+- Chat en vivo
+- Newsletter / Email marketing
+- Integración con Instagram Shopping
+- Sistema de reservas
+- Pasarelas de pago adicionales
+- SEO avanzado
+- Análisis y métricas personalizadas
+- Planes de mantenimiento extendido
 
-#### 🤝 **2. Acompañamiento Humano + IA**
-- Cada cliente tiene **reuniones consultivas** para entender sus necesidades reales.
-- Un **asistente IA integrado** guía al usuario en la elección de plantillas y add-ons, incluso sin conocimientos técnicos.
-- **No nos aprovechamos del cliente**: si alguien pide un blog con pasarela de pago, le sugerimos directamente un e-commerce porque es más adecuado y probablemente más económico.
+### Valor Diferencial de la Ruta
 
-#### 🔧 **3. Modularidad Real**
-- Cada plantilla viene con las funcionalidades **clave de su tipo** ya incluidas.
-- Los *add-ons* permiten **expandir** sin límites técnicos.
-- Si algo no existe, lo desarrollamos a medida.
+| Métrica | Sin Ruta (Tradicional) | Con Ruta del Emprendedor |
+|---------|------------------------|--------------------------|
+| **Reuniones iniciales** | Desde 4 sesiones | 1 de entrega + 1 de ajustes |
+| **Claridad estratégica** | Variable | Alta desde el inicio |
+| **Tiempo total** | 2-3 semanas | 1-2 semanas |
+| **Información para desarrollo** | Dispersa | Estructurada y completa |
+| **Satisfacción del cliente** | Media | Alta (sabe qué compra) |
 
----
+**Ejemplo práctico:**
 
-## 🧩 **Estructura del Modelo de Negocio**
-
-WebBlocks opera en **tres niveles de servicio** que cubren desde soluciones básicas hasta proyectos completamente personalizados.
-
----
-
-### **Nivel 1: Plantillas Base Funcionales**
-
-Son **proyectos completos** (no solo diseños) listos para clonar, modificar y lanzar.
-
-#### **Tipos de Plantillas Disponibles:**
-- 🌐 **Landing Pages** – Páginas de aterrizaje para captación.
-- 📝 **Blogs** – Con sistema de publicación, comentarios, categorías.
-- 🛒 **E-commerce** – Tienda online con carrito, pasarela de pago, inventario.
-- 📊 **Dashboards Administrativos** – Paneles de control para gestión interna.
-- 🏢 **Sitios Corporativos** – Institucionales con secciones múltiples.
-- 🎬 **Plataformas de Videos** – Similar a YouTube, con reproductor, listas, cuentas, suscripciones.
-- 📅 **Sistemas de Reservas** – Para hoteles, restaurantes, clínicas.
-- 🎨 **Portfolios** – Para creativos, fotógrafos, diseñadores.
-
-#### **¿Qué Incluye el Precio Base?**
-✅ Plantilla funcional completa (back-end + front-end).  
-✅ Personalización básica: textos, logo, colores, imágenes.  
-✅ Integración de formularios de contacto y redes sociales.  
-✅ Dominio y hosting configurados.  
-✅ **1 mes de mantenimiento inicial** (con horas de programador asignadas).  
-✅ **Varias reuniones consultivas** para ajustes y coordinación.
-
-> **Ejemplo Práctico:**  
-> Una panadería local quiere vender online. Elige la plantilla **E-commerce**, que ya incluye carrito, pasarela de pagos, gestión de inventario y sistema de envíos. Solo personalizamos colores, logo y productos. Entrega en **1 semana**.
+> Una panadería artesanal completa la Ruta del Emprendedor. Descubre que su diferencial es "panes sin gluten entregados el mismo día". La IA recomienda una plantilla E-commerce con sistema de pedidos, mapa de zonas de entrega y galería visual de productos. La personalización se enfoca solo en marca y productos. **Entrega: 1 semana.**
 
 ---
 
-### **Nivel 2: Add-ons o Componentes Modulares**
+## 🚀 Plan de Desarrollo del Prototipo
 
-Permiten **ampliar las funcionalidades** de una plantilla según necesidades específicas.
+> **Nota importante:** Este plan es una guía orientativa para saber qué hacer y en qué puede ir avanzando cada quien. No es una obligación rígida, sino una referencia de trabajo.
 
-#### **Ejemplos de Add-ons Predefinidos:**
-- 🛒 **Carrito de compras avanzado** (si la plantilla base es un blog, por ejemplo).
-- 💳 **Pasarelas de pago adicionales** (PayPal, Stripe, Mercado Pago).
-- 📅 **Sistema de reservas online**.
-- 👤 **Login y registro de usuarios**.
-- 📊 **Dashboard de métricas y monitoreo**.
-- 🎥 **Reproductor de video personalizado**.
-- 🌍 **Multi-idioma**.
-- 💬 **Chat de atención en vivo**.
-- 📧 **Automatización de correos (newsletters, confirmaciones)**.
-- 🔒 **Sistemas de membresía o suscripción**.
+### Fase 1: Fundamentos Visuales
 
-🔹 Cada *add-on* tiene un **precio fijo predefinido**, facilitando la elección.  
-🔹 Si un cliente necesita algo que no existe, se evalúa como **desarrollo personalizado** (Nivel 3).
+**Tareas sugeridas:**
+- [ ] Definir paleta de colores (principales + neutros)
+- [ ] Seleccionar tipografías con sus usos
+- [ ] Diseñar el aspecto del "Monigote Emprendedor" (versiones estáticas)
+- [ ] Buscar nombre para la mascota
+- [ ] Crear logo con variantes
+- [ ] Documento básico de estilo visual
 
-#### **Lógica de Precios Transparente (No Nos Aprovechamos):**
+### Fase 2: Estructura y Contenido
 
-🎯 **Honestidad antes que lucro:** Si un cliente pide funcionalidades que ya están incluidas en otra plantilla, le sugerimos la opción más adecuada y económica.
+**Tareas sugeridas:**
+- [ ] Bocetos de las 4 secciones principales
+- [ ] Textos completos (títulos, descripciones, llamados a la acción)
+- [ ] Documentar cómo navega el usuario
+- [ ] Definir todas las preguntas para la Ruta del Emprendedor
+- [ ] Crear la lógica de recomendaciones de la IA
 
-**Ejemplos prácticos:**
+### Fase 3: Diseño Visual
 
-- **Blog + Carrito + Pasarela de pago** → Sugerimos **E-commerce** (más completo y probablemente más barato).
-- **Landing + Reservas + Pagos** → Sugerimos **Sistema de Reservas** directamente.
-- **Sitio Corporativo + Plataforma de Videos** → Si el video es lo principal, mejor **Plataforma de Videos** con personalización corporativa.
+**Tareas sugeridas:**
+- [ ] Diseños visuales completos (puede ser en cualquier herramienta: Figma, Photoshop, Canva, etc.)
+- [ ] Sistema paso a paso funcional de la Ruta
+- [ ] Tienda con filtros de búsqueda
+- [ ] Versión para móviles de las secciones importantes
 
-#### **Qué Incluye Cada Plantilla (Sin Extras Ocultos):**
+### Fase 4: Presentación
 
-- **E-commerce:** Carrito, inventario, múltiples pasarelas de pago, gestión de envíos, cuentas de cliente, reportes de ventas.
-- **Plataforma de Videos:** Reproductor HD, listas de reproducción, comentarios, likes, suscripciones, cuentas, moderación, gestión de contenido.
-- **Sistema de Reservas:** Calendario interactivo, pagos en línea, confirmaciones automáticas, gestión de disponibilidad.
-
-**Filosofía:** Cobramos por el valor real entregado, no por "trucos" o funcionalidades que deberían venir incluidas.
-
----
-
-### **Nivel 3: Desarrollo Completamente Personalizado**
-
-Para clientes que necesitan una solución única que no se puede armar con plantillas y add-ons.
-
-#### **¿Qué Incluye?**
-- 🎨 Diseño UI/UX exclusivo.
-- 🧠 Arquitectura de software a medida.
-- 🔗 Integraciones complejas o sistemas internos.
-- 👨‍💼 Consultoría dedicada durante todo el proceso.
-
-💰 **Precio:** Mayor, alineado con el costo real de un desarrollo profesional.
-
-#### **Opción Premium: Entrega del Código Fuente**
-Para empresas que crecen y desean gestionar su sitio internamente:
-- Entrega completa del código fuente.
-- Documentación técnica detallada.
-- Asesoría de un **consultor del proyecto** para traspaso y capacitación.
-
-🔒 **Servicio de alto costo**, bajo contrato específico.
+**Tareas sugeridas:**
+- [ ] Video demostrativo de 1-3 minutos
+- [ ] Presentación ejecutiva del proyecto
+- [ ] Código básico funcional (flujo feliz)
+- [ ] Documentación técnica básica
 
 ---
 
-## 🍕 **La Analogía de la Pizza**
+## 🎬 Formatos de Presentación Sugeridos
 
-Para explicar el modelo modular de manera simple y cercana:
-
-| Elemento | Significado | Ejemplo Concreto |
-|----------|-------------|------------------|
-| 🍕 **Masa cocida** (Plantilla Base) | Sitio funcional con lo esencial: diseño, hosting, dominio, personalización básica. | Landing page, blog, e-commerce básico. |
-| 🧀 **Ingredientes** (Add-ons) | Funcionalidades extra que el cliente elige según su necesidad. | Carrito, chat en vivo, reservas, pasarela de pago. |
-| 🍕✨ **Pizza completa** | Producto final con los ingredientes elegidos, listo para usar. | Sitio terminado, profesional y personalizado. |
-| 👨‍🍳 **Receta especial** (Desarrollo desde cero) | Proyecto único, creado completamente a medida. | Sistema complejo, dashboard corporativo, app web específica. |
-
-Esta analogía nos ha servido para explicar fácilmente el modelo a clientes, evaluadores y potenciales socios, diferenciando entre niveles de complejidad y costo.
+1. **Diseño visual interactivo** — Navegable, simula la experiencia completa
+2. **Video explicativo animado** — Muestra el flujo con el Monigote evolucionando
+3. **Código base funcional** — HTML/CSS/JS con la ruta feliz implementada
+4. **Animación del recorrido completo** — Historia visual del emprendedor
 
 ---
 
-## ⚔️ **Diferenciación Técnica y Competitiva**
+## 👥 Generación de Empleo y Comunidad
 
-### **WebBlocks vs. Competencia**
+**Estrategia a mediano plazo:**
 
-| Aspecto | WebBlocks | Wix / WordPress / Shopify |
-|---------|-----------|---------------------------|
-| **Tecnología** | Código propio, arquitectura sólida | Plantillas genéricas con plugins de terceros |
-| **Rendimiento** | Alta velocidad, optimizado | Dependiente de plugins, a menudo lento |
-| **Flexibilidad** | Modular y escalable sin límites | Limitada por el CMS o la plataforma |
-| **Soporte** | Personalizado, humano y especializado | General, automatizado o comunitario |
-| **Propiedad** | Posible entrega de código fuente | No se entrega propiedad total |
-| **Transparencia** | Precios claros, reuniones incluidas | Planes confusos, costos ocultos |
-| **Escalabilidad** | Crece con el negocio del cliente | Limitaciones técnicas al crecer |
-
-### **¿Por Qué No Usar Wix o WordPress?**
-
-🔴 **Limitaciones técnicas:**  
-No puedes salir de las restricciones de la plataforma. Si necesitas algo específico, estás atrapado.
-
-🔴 **Dependencia de plugins:**  
-Los plugins de terceros ralentizan el sitio, generan conflictos y muchas veces tienen vulnerabilidades de seguridad.
-
-🔴 **Sin soporte real:**  
-Si algo falla, quedas solo. Los foros comunitarios no siempre tienen la respuesta.
-
-🔴 **Difícil de escalar:**  
-Cuando el negocio crece, la plataforma no aguanta. Hay que migrar, lo que es costoso y arriesgado.
-
-### **¿Por Qué No Contratar una Agencia Tradicional?**
-
-🔴 **Costos elevados:**  
-Un desarrollo desde cero puede costar millones de pesos y tomar meses.
-
-🔴 **Riesgo de sobreventa:**  
-Muchas agencias cobran desarrollos completos cuando una plantilla bien hecha resolvería el problema.
-
-🔴 **Mantenimiento costoso:**  
-El soporte continuo suele ser caro y poco flexible.
-
-### **La Ventaja de WebBlocks:**
-
-✅ **Rápido como una plantilla, pero con código real.**  
-✅ **Económico sin sacrificar calidad.**  
-✅ **Escalable sin límites técnicos.**  
-✅ **Acompañamiento humano en cada etapa.**  
+- **Programadores freelance** — Para crear nuevas plantillas y extras
+- **Diseñadores y animadores** — Para optimizar experiencias visuales
+- **Creadores de contenido** — Para componentes y mejoras
+- **Comunidad colaborativa** — Compartir, mejorar, innovar
+- **Sistema de comisiones** — Incentivo para contribuciones de calidad
 
 ---
 
-## 🎬 **Casos de Uso Reales**
+## ✅ Criterios de Éxito del Prototipo
 
-### **Caso 1: Panadería Local "Pan del Barrio"**
+El prototipo debe lograr que **cualquier PYME entienda en 2 minutos** por qué ByPyme es mejor que:
 
-**Necesidad:**  
-Vender sus productos online, pero no tienen presupuesto para una agencia.
+- Contratar una agencia tradicional (más caro, más lento)
+- Contratar un freelancer (inconsistente, sin metodología)
+- Usar Wix/WordPress (limitaciones técnicas, curva de aprendizaje)
 
-**Solución WebBlocks:**  
-- Plantilla **E-commerce** con carrito, pasarela de pago, inventario.
-- Personalización: logo, colores, fotos de productos.
-- Reuniones para ajustar categorías y descripciones.
-
-**Resultado:**  
-Sitio funcional en **1 semana**, con ventas online activas.
+**El mensaje debe gritar:**
+> "Esto es más fácil, más rápido, más claro y te da estrategia + web en un solo proceso"
 
 ---
 
-### **Caso 2: Club de Cine Amateur "Séptimo Arte"**
+## 🎯 Observaciones Clave
 
-**Necesidad:**  
-Un club de cine amateur cuyos miembros pagan membresía anual quiere tener su propia plataforma (estilo YouTube) para subir, compartir y ver exclusivamente las películas producidas por ellos mismos.
+### Fortalezas Únicas
 
-**Solución WebBlocks:**  
-- Plantilla **Plataforma de Videos** (precio premium, pero incluye todo lo necesario).
-- **Ya incluye:** reproductor HD optimizado, listas de reproducción personalizadas, sistema de comentarios, cuentas de usuario, suscripciones a canales, gestión completa de contenido multimedia.
-- **Add-on:** sistema de membresía con pagos recurrentes anuales.
-- **Personalización:** branding del club, categorías específicas (drama, documental, experimental), moderación de contenido.
+✅ **La Ruta del Emprendedor** — Ningún competidor ofrece esto  
+✅ **Modelo integral** — Estrategia + Desarrollo + Mantenimiento  
+✅ **Foco real en PYMEs** — No somos una plantilla genérica  
+✅ **Transparencia total** — Precios claros, inclusiones visibles  
+✅ **Plantillas propias** — Sin limitaciones de terceros  
+✅ **Hosting en Chile** — Velocidad y soporte local
 
-**¿Por qué no elegir un Blog con add-ons de video?**  
-Porque la **Plataforma de Videos** ya incluye TODO lo que necesitan y probablemente resulta más económica que armar un blog + múltiples add-ons.
+### Puntos de Atención
 
-**Resultado:**  
-Plataforma completamente funcional tipo YouTube pero privada, exclusiva para el club, con membresías integradas, lista en **2 semanas**.
-
----
-
-### **Caso 3: Consultoría "Estrategias Plus"**
-
-**Necesidad:**  
-Sitio corporativo con blog, formulario de contacto y calendario de reuniones.
-
-**Solución WebBlocks:**  
-- Plantilla **Sitio Corporativo** + Add-on de **Sistema de Reservas**.
-- Personalización: branding, textos institucionales, integración con Google Calendar.
-
-**Resultado:**  
-Sitio profesional con automatización de agendamiento en **5 días**.
+⚠️ Mantener diseño limpio, no saturar con información  
+⚠️ Consistencia visual y tono de voz en todo el sitio  
+⚠️ Experiencia móvil impecable (mayoría navega desde celular)  
+⚠️ Velocidad de carga crítica (afecta conversión)  
+⚠️ Probar con usuarios reales antes del lanzamiento
 
 ---
 
-### **Caso 4: Emprendedora "La Señora Marta"**
+## 📋 Tareas Inmediatas Sugeridas
 
-**Necesidad:**  
-Vende mermeladas artesanales, pero no sabe qué tipo de página necesita.
+### Identidad Visual
+- [ ] Definir colores de la marca
+- [ ] Seleccionar tipografías
+- [ ] Diseñar logo y variantes
+- [ ] Crear la mascota "Monigote Emprendedor" (versiones estáticas de cada etapa)
+- [ ] Crear documento con guía de estilo visual
 
-**Solución WebBlocks:**  
-- Usa el **Asistente IA** en la plataforma.
-- Conversa: *"Tengo una PYME de mermeladas y quiero venderlas online"*.
-- El bot recomienda: **E-commerce básico** con precio claro.
-- Agenda una reunión gratuita con nuestro equipo para confirmar.
+### Contenido
+- [ ] Escribir texto del Inicio (mensaje principal, beneficios, llamados a la acción)
+- [ ] Escribir texto de Quiénes Somos
+- [ ] Definir categorías de la Tienda
+- [ ] Escribir todas las preguntas de la Ruta del Emprendedor
+- [ ] Crear descripciones de cada plantilla
 
-**Resultado:**  
-Cliente informado, sin confusión técnica, y con solución adecuada a su presupuesto.
+### Diseño
+- [ ] Bocetos del Inicio
+- [ ] Bocetos de Quiénes Somos
+- [ ] Bocetos de la Tienda
+- [ ] Bocetos de la Ruta del Emprendedor (paso a paso)
+- [ ] Versión móvil de secciones importantes
 
----
+### Funcionalidad
+- [ ] Crear la lógica del sistema de recomendaciones de la IA
+- [ ] Definir cómo funciona el paso a paso
+- [ ] Sistema de filtros de la Tienda
+- [ ] Selector de extras con cálculo de precio automático
+- [ ] Formularios de contacto
 
-## 🤖 **Asistente IA: Accesibilidad para Todos**
-
-Uno de los pilares de WebBlocks es hacer que **cualquier persona**, sin importar su nivel de conocimiento técnico, pueda entender qué necesita y cuánto cuesta.
-
-### **¿Cómo Funciona el Asistente IA?**
-
-- **Integrado en la plataforma web.**
-- **Chat conversacional** que pregunta sobre el negocio y necesidades del usuario.
-- **Recomendaciones personalizadas** de plantillas y add-ons.
-- **Cotización en tiempo real** según las elecciones.
-- **Agenda reuniones** con nuestro equipo para coordinar detalles.
-
-### **Ejemplo de Conversación:**
-
-**Usuario:** *"Hola, tengo una pequeña tienda de ropa y quiero vender online."*
-
-**Asistente:** *"Perfecto, para vender online te recomiendo una plantilla E-commerce. ¿Necesitas que los clientes puedan pagar con tarjeta?"*
-
-**Usuario:** *"Sí, y también quiero que se puedan registrar para ver su historial de compras."*
-
-**Asistente:** *"Excelente, eso ya está incluido en el E-commerce base. El costo estimado es $XXX. ¿Te gustaría agendar una reunión gratuita con nuestro equipo para comenzar?"*
-
-**Resultado:**  
-El usuario entiende qué necesita, cuánto cuesta, y tiene un canal directo para coordinarse.
+### Presentación
+- [ ] Planificar el guion del video demostrativo
+- [ ] Estructura de la presentación ejecutiva
+- [ ] Planificar el código básico funcional
+- [ ] Definir animaciones de la mascota
 
 ---
 
-## 👥 **Generación de Empleo y Comunidad**
+## 🎬 Estructura Sugerida para Presentación
 
-WebBlocks no solo es una plataforma de servicios, sino también un **ecosistema que genera empleo y colaboración**.
+**Duración:** 1-3 minutos
 
-### **1. Empleo Directo**
+**Guion:**
 
-- **Programadores:** Desarrollo de plantillas, add-ons y proyectos personalizados.
-- **Diseñadores UX/UI:** Creación de interfaces y experiencias de usuario.
-- **Consultores:** Atención a clientes, reuniones, coordinación de proyectos.
-- **Soporte técnico:** Mantenimiento, actualizaciones, resolución de problemas.
+1. **Problema** (20 seg)  
+   "Las PYMEs pierden tiempo, dinero y claridad tratando de tener presencia web"
 
-### **2. Biblioteca Abierta de Add-ons: Marketplace Global**
+2. **Solución** (40 seg)  
+   "ByPyme combina consultoría estratégica con desarrollo web. La Ruta del Emprendedor te ayuda a entender tu negocio antes de construir tu sitio"
 
-Queremos crear una **comunidad global de desarrolladores** donde cualquier programador del mundo pueda contribuir con componentes propios y obtener ingresos por ello.
+3. **Demostración** (60-90 seg)  
+   Mostrar el flujo completo con el Monigote evolucionando
 
-#### **¿Cómo Funcionaría el Sistema de Contribuciones?**
+4. **Diferencial** (20 seg)  
+   "1 reunión de entrega + 1 de ajustes vs desde 4 reuniones, 1-2 semanas vs 2-3, claridad desde el inicio"
 
-1. **Envío de Propuestas:** Cualquier desarrollador puede contactarnos con su add-on desarrollado.
-2. **Evaluación Rigurosa:** Nuestro equipo evalúa calidad del código, funcionalidad, seguridad y utilidad.
-3. **Integración y Comisiones:** Si es aceptado, se integra a nuestra biblioteca oficial.
-4. **Ingresos por Uso:** El creador recibe una comisión por cada vez que su add-on se utiliza en un proyecto cliente.
+5. **Llamado a la acción** (10 seg, ejemplo)  
+   "Tu emprendimiento, tu web, tu valor. Con ByPyme."
 
-#### **Sistema de Comisiones Inteligente:**
-
-- 💰 **Comisión variable** según la importancia y complejidad del add-on.
-- 📈 **Add-ons populares = mayores ingresos** para el desarrollador.
-- 🎯 **Incentivos especiales** para componentes únicos o muy demandados.
-- 🤝 **Contratos transparentes** con términos claros de colaboración.
-
-#### **Beneficios del Ecosistema:**
-
-✅ **Genera empleo remoto** para desarrolladores independientes globalmente.  
-✅ **Amplía exponencialmente** nuestro catálogo de funcionalidades.  
-✅ **Acelera la innovación** con aportes de expertos especializados.  
-✅ **Crea una economía colaborativa** en torno a WebBlocks.  
-✅ **Reduce costos de desarrollo** mientras aumenta la calidad.
+> **Nota:** Los textos finales se definirán según avance el proyecto. Estos son ejemplos orientativos.
 
 ---
 
-### **3. Uso Ético de Open Source con Regalías**
+## 🌟 Conclusión
 
-Nuestra filosofía es usar **código abierto de calidad** mientras compensamos justamente a sus creadores cuando sea posible.
+**ByPyme** no solo crea sitios web. Creamos claridad, estrategia y presencia digital para cada emprendimiento chileno.
 
-#### **Estrategia de Colaboración Ética:**
+Nuestro diferencial no es técnico — es **humano y metodológico**. La Ruta del Emprendedor transforma el proceso de desarrollo web en un viaje de descubrimiento personal donde el emprendedor entiende su propio negocio antes de lanzarlo al mundo digital.
 
-1. **Contacto Proactivo:** Identificamos y contactamos a los autores de proyectos open source útiles.
-2. **Propuesta de Regalías:** Ofrecemos compensación económica por el uso comercial de su trabajo.
-3. **Reconocimiento Público:** Todos los aportes se reconocen públicamente en nuestra plataforma.
-4. **Colaboración Continua:** Invitamos a los autores a mejorar o adaptar sus proyectos para WebBlocks.
-
-#### **Si No Es Posible el Contacto:**
-
-- 🏷️ **Reconocimiento prominente** del autor original.
-- 📖 **Documentación clara** de la fuente y licencia.
-- 💰 **Reserva de regalías** para entregarlas si el autor se contacta posteriormente.
-- 🤝 **Transparencia total** sobre qué componentes son de terceros.
-
-#### **Valor Agregado de WebBlocks:**
-
-Nuestro valor comercial no está en el código base, sino en:
-- 🔧 **Ensamblaje profesional** y optimización.
-- 🎨 **Personalización** según necesidades del cliente.
-- 🛠️ **Soporte técnico** especializado y mantenimiento.
-- 👥 **Acompañamiento humano** durante todo el proceso.
-- 🔒 **Seguridad y actualizaciones** continuas.
+**El resultado:** Clientes felices, proyectos más rápidos, menor desgaste del equipo, y sitios web que realmente representan la esencia de cada negocio.
 
 ---
 
-## ⚙️ **Stack Tecnológico**
+*Brief desarrollado para el equipo ByPyme — Estudiantes de Ing. Civil Informática y de Animación Digital*
 
-### **Backend:**
-- **Django (Python)**  
-  - Framework robusto, modular y escalable.
-  - Perfecto para sitios simples y sistemas complejos.
-  - Gran comunidad y soporte.
-
-### **Frontend:**
-- **Por definir:** React, Angular o Astro.  
-  - Se evaluará según las necesidades de interfaz y rendimiento.
-  - Enfoque en componentes reutilizables y modulables.
-
-### **Base de Datos:**
-- **PostgreSQL**  
-  - Confiable, segura y escalable.
-
-### **Infraestructura:**
-- **Hosting administrado** (cloud con escalabilidad automática).
-- **Dominio incluido** en todos los planes.
-- **Certificados SSL** para seguridad.
-
-### **Otros:**
-- **Asistente IA:** Integrado con APIs de procesamiento de lenguaje natural.
-- **Sistema de versionado:** Git para control de cambios.
-- **Testing automatizado:** Para asegurar calidad en cada plantilla.
-
----
-
-## 🛠️ **Producto Mínimo Viable (PMV)**
-
-Para validar el modelo antes del lanzamiento completo, desarrollaremos un **PMV funcional**.
-
-### **Características del PMV:**
-
-- **Versión local** (no hosteada inicialmente).
-- **Catálogo limitado** de plantillas:
-  - Landing Page
-  - Blog
-  - E-commerce básico
-- **Sistema de selección** de plantillas y add-ons.
-- **Cotización en tiempo real** según elecciones.
-- **Asistente IA básico** que guíe al usuario.
-- **Previsualización visual** de componentes (botones, secciones, diseños).
-
-### **Objetivo del PMV:**
-
-- Demostrar la **viabilidad técnica**.
-- Obtener **retroalimentación** de usuarios reales.
-- Validar el **modelo de precios**.
-- Generar **casos de demostración** para captar inversión.
-
----
-
-## 📈 **Estrategia de Captación y Comercialización**
-
-### **Fase 1: Captación Temprana**
-
-- **Primera reunión gratuita** con potenciales clientes.
-- **Paquete promocional inicial** a precio reducido.
-- **Demos en vivo** en negocios locales (panaderías, tiendas, restaurantes).
-- **Casos de prueba gratis** para generar testimonios y portfolio.
-
-### **Fase 2: Marketing Digital**
-
-- **Redes sociales:** Instagram, LinkedIn, Facebook.
-- **Contenido educativo:** Blogs, videos, tutoriales sobre presencia digital.
-- **Publicidad pagada:** Google Ads, Facebook Ads con segmentación local.
-
-### **Fase 3: Marketing Físico**
-
-- **Folletos y tarjetas** en zonas comerciales.
-- **Alianzas con cámaras de comercio** locales.
-- **Charlas y talleres** sobre digitalización para PYMEs.
-
-### **Fase 4: Escalamiento**
-
-- **Programa de referidos:** Clientes que recomiendan reciben descuentos.
-- **Partners estratégicos:** Agencias de marketing, diseñadores, consultores.
-- **Marketplace de add-ons:** Desarrolladores externos contribuyen.
-
----
-
-## 🛡️ **Servicios Adicionales**
-
-### **Mantenimiento y Suscripciones**
-
-- **Planes flexibles:** Mensual, trimestral, anual o permanente.
-- **Incluye:**
-  - Soporte técnico prioritario.
-  - Actualizaciones de seguridad.
-  - Cambios menores de contenido.
-  - Horas de programador asignadas.
-
-### **Beneficios:**
-
-✅ **Ingresos recurrentes** para WebBlocks.  
-✅ **Tranquilidad** para el cliente (sitio siempre actualizado).  
-✅ **Relación continua** que permite vender upgrades y expansiones.
-
----
-
-## ⚠️ **Riesgos y Mitigación**
-
-| Riesgo | Descripción | Mitigación |
-|--------|-------------|------------|
-| **Operacional** | Costos de mantenimiento y soporte continuos. | Planes de suscripción escalables y automatización donde sea posible. |
-| **Escalabilidad** | Balancear personalización y automatización. | Sistema modular bien definido, código reutilizable. |
-| **Comercial** | Competencia consolidada (Wix, WordPress). | Enfoque en transparencia, soporte humano y diferenciación técnica. |
-| **Reputación inicial** | Sin portfolio al principio. | Crear demos, casos gratuitos, testimonios de usuarios iniciales. |
-| **Técnico** | Dependencia de tecnologías específicas. | Mantener stack moderno y flexible, con documentación completa. |
-
----
-
-## 🚀 **Oportunidades de Crecimiento**
-
-### **Corto Plazo (6 meses):**
-
-1. Definir stack tecnológico definitivo.
-2. Crear catálogo inicial de **5-10 plantillas**.
-3. Estructurar precios y paquetes.
-4. Desarrollar casos demo para presentar.
-5. Lanzar PMV con clientes piloto.
-
-### **Mediano Plazo (1-2 años):**
-
-1. Ampliar catálogo a **20+ plantillas**.
-2. Lanzar **Marketplace de add-ons**.
-3. Generar alianzas con agencias y diseñadores.
-4. Ofrecer **programas de partners** para mantenimiento y expansión.
-5. Iniciar campañas de marketing digital y físico.
-
-### **Largo Plazo (3+ años):**
-
-1. Convertir WebBlocks en una **plataforma SaaS** completa.
-2. Permitir que los usuarios gestionen sus sitios desde un panel.
-3. Ofrecer **white-label** para agencias que quieran revender nuestro servicio.
-4. Crear una **comunidad activa** de desarrolladores y usuarios.
-
----
-
-## 👥 **Equipo y Participación**
-
-### **Equipo Actual:**
-
-- **5 integrantes confirmados** (dentro del límite de 6 que exige el Fondo Santander).
-
-### **Perfiles del Equipo:**
-
-- **Desarrolladores Web** (Frontend / Backend)
-- **Diseñadores UX/UI**
-- **Gestores de Proyectos**
-- **Marketing Digital**
-- **Consultores de Negocio**
-
-### **Enfoque del Equipo:**
-
-- **Colaboración universitaria** con ganas de aprender y aportar.
-- **Compromiso real** con el proyecto.
-- **Apertura a la creatividad** y propuestas de mejora.
-- **Posibilidad de continuar** si logramos financiamiento.
-
-### **Mentores y Asesores:**
-
-- Participación de profesores y expertos como asesores técnicos.
-- Retroalimentación constante de emprendedores experimentados.
-
----
-
-## ⚖️ **Aspectos Legales y Éticos**
-
-### **Uso de Código Abierto:**
-
-- Se respetarán todas las **licencias** correspondientes.
-- Se dará **reconocimiento público** a los creadores.
-- Se intentará **contactar a los autores** para ofrecer regalías si es posible.
-
-### **Propiedad Intelectual:**
-
-- El código desarrollado por WebBlocks será **propiedad de la empresa**.
-- Los clientes pueden solicitar la **entrega del código fuente** bajo contrato específico.
-
-### **Transparencia:**
-
-- **Precios claros** sin costos ocultos.
-- **Contratos transparentes** con alcance bien definido.
-- **Política de datos** clara y respetuosa de la privacidad.
-
-### **Generación de Comunidad:**
-
-- **Comunidad WebBlocks** donde se valoren los aportes de terceros.
-- **Fomentar la colaboración** entre desarrolladores, diseñadores y usuarios.
-
----
-
-## 🎉 **Conclusión**
-
-**WebBlocks** busca posicionarse como el **punto medio perfecto** entre la simplicidad de las plataformas automáticas y la robustez de los desarrollos a medida.
-
-Nuestro **modelo modular** permite entregar sitios **rápidos, escalables y profesionales**, mientras generamos **empleo real** y fomentamos el **desarrollo tecnológico local**.
-
-La **analogía de la pizza 🍕** es más que una metáfora:  
-Es una forma de hacer que la tecnología sea **comprensible, cercana y útil** para cualquier empresa que quiera dar el salto digital.
-
-Con el apoyo del **Fondo Santander** y la retroalimentación de expertos como el Profesor Luis Angulo, esperamos **pulir esta propuesta** para presentarla con una versión final **sólida, coherente y viable**.
-
----
-
-## 📝 **Resumen de Reuniones y Decisiones**
-
-### **Resumen 1ra Reunión – 8 de Octubre 2025**
-
-**Participantes:** Benjamín Cruz, Javier Morales Subaru  
-**Moderador:** Javier Sebastián Morales Subaru
-
-**Decisiones Clave:**
-
-1. **Concepto de plantillas funcionales** (no solo diseño, sino código completo).
-2. **Sistema de add-ons modulares** para personalización.
-3. **Tres niveles de servicio:** Plantilla → Add-ons → Custom.
-4. **Personalización básica incluida** en el precio base.
-5. **Mantenimiento opcional** con planes mensuales.
-6. **Venta de código fuente** como servicio premium.
-7. **Modelo escalable** que crece con el cliente.
-8. **PMV funcional** con asistente IA y cotización dinámica.
-9. **Stack tecnológico:** Django para back-end, front-end por definir.
-10. **Estrategia de promoción:** Primera reunión gratuita, demos directas, transparencia radical.
-
----
-
-### **Análisis Competitivo y Modelo de Negocio**
-
-**Ventana de Oportunidad:**
-
-- Espacio para innovar en personalización modular.
-- Falta transparencia en precios y servicios en el mercado.
-- Carencia de escalabilidad real en soluciones existentes.
-
-**Ventajas Clave de WebBlocks:**
-
-1. **Diferenciación Tecnológica:** Código propio, arquitectura modular.
-2. **Modelo de Servicio Superior:** Tres niveles claros, reuniones incluidas.
-3. **Experiencia Cliente:** Asistente IA, previsualización, soporte especializado.
-
-**Riesgos Identificados:**
-
-- Costos de mantenimiento continuos.
-- Balance entre personalización y escalabilidad.
-- Competencia con WordPress/Wix establecidos.
-
-**Oportunidades Únicas:**
-
-- Enfoque en nichos específicos (restaurantes, retail, clubes).
-- Transparencia radical en precios.
-- Mantenimiento proactivo como servicio premium.
-- Marketplace de componentes a futuro.
-
----
-
-## 📧 **Contacto del Equipo**
-
-**Javier Sebastián Morales Subaru**  
-📧 [jmoraless5@correo.uss.cl](mailto:jmoraless5@correo.uss.cl)  
-📱 [+569 5497 1044]
-
-**Benjamín Cruz Espinoza**  
-📧 [bcruze@correo.uss.cl](mailto:bcruze@correo.uss.cl)  
-📱 [+569 4448 1456]
-
-**Carlos Bastidas Pereira**  
-📧 [cbastidasp@correo.uss.cl](mailto:cbastidasp@correo.uss.cl)  
-📱 [+569 3701 3703]
-
-**Ignacio Barra Chaparro**  
-📧 [ibarrac@correo.uss.cl](mailto:ibarrac@correo.uss.cl)  
-📱 [+569 8329 8028]
-
-**Benjamin Campos Vargas**  
-📧 [bcamposv@correo.uss.cl](mailto:bcamposv@correo.uss.cl)  
-📱 [+569 9088 1759]
-
-**Victor Cisternas*  
-📧 [correo.uss.cl]()  
-📱 [+569 1234 5678]
----
-
-**Universidad San Sebastián – Concepción**  
-Ingeniería Civil Informática  
-📍 Proyecto WebBlocks – Plataforma de Desarrollo Web Modular  
-📅 Octubre 2025
-
----
-
-> **"Haciendo la tecnología accesible, bloque a bloque."** 🧱
-
+*"Tu negocio, tu página web, sin complicaciones." (ejemplo)*
